@@ -62,11 +62,11 @@
   <tr>
     <td align="center">
       <h3></h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=trinhhuutho&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TrinhHuuTho&theme=github_dark" alt="GitHub Stats" />
     </td>
     <td align="center">
       <h3></h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhhuutho&layout=compact&theme=github_dark" alt="Top Languages" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TrinhHuuTho&theme=github_dark" alt="Top Languages" />
     </td>
   </tr>
   <tr>
