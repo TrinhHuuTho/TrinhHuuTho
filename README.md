@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Trịnh Hửu Thọ</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Trịnh Hửu Thọ</h1>
 <h3 align="center">Aspiring AI Engineer from Vietnam 🇻🇳</h3>
 
 <p align="center">
@@ -56,23 +56,28 @@
   </a>
 </p>
 
---- -->
+---
+-->
 
 <table align="center">
   <tr>
     <td align="center">
       <h3></h3>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TrinhHuuTho&theme=github_dark" alt="GitHub Stats" />
+      <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TrinhHuuTho&theme=dark" alt="GitHub Stats" /> -->
+     <img
+        src="https://github-readme-stats-phi-beige-43.vercel.app/api?username=TrinhHuuTho&show_icons=true&theme=dark&hide_border=true"
+        alt="SweetLove1643 GitHub Stats"
+      />
     </td>
     <td align="center">
       <h3></h3>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TrinhHuuTho&theme=github_dark" alt="Top Languages" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TrinhHuuTho&theme=dark" alt="Top Languages" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <h3></h3>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trinhhuutho&theme=github_dark" alt="Summary Card" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trinhhuutho&theme=dark" alt="Summary Card" />
     </td>
   </tr>
 </table>
