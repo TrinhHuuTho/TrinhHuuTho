@@ -1,11 +1,12 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Trịnh Hửu Thọ</h1>
 <h3 align="center">Aspiring AI Engineer from Vietnam 🇻🇳</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=trinhhuutho&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
+
+### About Me
 
 - 🔭 I’m currently working on projects related to **Machine Learning** and **Web Development**.
 - 🌱 I’m currently learning **Machine Learning**, **Deep Learning**, and **Gen AI**.
@@ -16,24 +17,26 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+### Connect With Me
+
 <p align="center">
-  <a href="https://linkedin.com/in/thọ-trịnh-b48755236" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="44" height="44" />
+  <a href="mailto:trinhuutho@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://kaggle.com/your-kaggle-here" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="44" height="44" />
+  <a href="https://linkedin.com/in/thainhat04">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/tho.trinh.56614/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="44" height="44" />
+  <a href="https://facebook.com/thainhat04">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
-<div align="center">
+### Languages and Tools
 
+<div align="center">
+  
 | **Core Language** | <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="44" height="44" /></a> <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="44" height="44" /></a> |
 |:---:|:---:|
 | **ML/DL Frameworks** | <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="44" height="44" /></a> |
@@ -55,6 +58,8 @@
 ---
 -->
 
+### GitHub Statistics
+
 <table align="center">
   <tr>
     <td align="center">
@@ -68,6 +73,7 @@
     <td align="center">
       <h3></h3>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TrinhHuuTho&theme=dark" alt="Top Languages" />
+      <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TrinhHuuTho&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" /> -->
     </td>
   </tr>
   <tr>
