@@ -13,8 +13,8 @@
 - 👨‍💻 Some of my projects are available at [My GitHub Projects](https://github.com/trinhhuutho?tab=repositories)
 - 📫 How to reach me: **trinhhuutho@gmail.com**
 - 📄 Check out my portfolio (updating soon!)
-- ⚡ Fun fact: I love turning complex concepts into simple, elegant solutions, and I love children - regular volunteer at Kidspire VietNam.
-
+- ⚡ Fun fact: I enjoy breaking down complex concepts into simple, elegant solutions, and I love teaching children - regular volunteer at Kidspire VietNam.
+  
 ---
 
 ### Connect With Me
