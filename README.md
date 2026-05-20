@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Machine Learning**, **Deep Learning**, and **Gen AI**.
 - 👨‍💻 Some of my projects are available at [My GitHub Projects](https://github.com/trinhhuutho?tab=repositories)
 - 📫 How to reach me: **trinhhuutho@gmail.com**
-- 📄 Check out [My Portfolio](https://trinhhuutho.github.io/)
+- 🌐 Check out [My Portfolio](https://trinhhuutho.github.io/)
 - ⚡ Fun fact: I enjoy breaking down complex concepts into simple, elegant solutions, and I love teaching children - regular volunteer at _**[Kidspire VietNam](https://www.kidspire.org/vietnam-vi)**_.
   
 ---
